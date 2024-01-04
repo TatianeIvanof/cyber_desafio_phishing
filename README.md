@@ -8,11 +8,19 @@ Este projeto é parte do desafio de cibersegurança e envolve a utilização do 
 
   ## Script
   
-- Acesso root: sudo su
-Para acessar como root no terminal: sudo su
+- Acesso root: 
+Para acessar como root no terminal:
 
-- Iniciando o setoolkit: setoolkit
+```bash
+sudo su
+```
+
+- Iniciando o setoolkit: 
 Para iniciar o Setoolkit: setoolkit
+
+```bash
+setoolkit
+```
 
 - ## Detalhes do Ataque
 - **Tipo de Ataque:** Social-Engineering Attacks
